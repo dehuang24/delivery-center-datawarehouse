@@ -1,0 +1,18 @@
+# Bỏ qua các file dữ liệu nặng
+*.csv
+*.xlsx
+*.xls
+data_source/
+
+# Bỏ qua các file rác của Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Bỏ qua file cấu hình môi trường ảo (nếu có)
+venv/
+env/
+.env
+
+# Bỏ qua file hệ thống
+.DS_Store
