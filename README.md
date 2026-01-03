@@ -42,13 +42,3 @@ The project's raw data is sourced from a public Kaggle dataset: **Brazilian Deli
 
 👉 **Download Link:** [Brazilian Delivery Center on Kaggle](https://www.kaggle.com/datasets/nosbielcs/brazilian-delivery-center)
 
-> **Note:** The `data_source/` directory containing CSV files is included in `.gitignore` to reduce repository size. Please download the data from the link above and extract it into the `data_source/` folder before running the code.
-
-**Key Files:**
-* `orders.csv`: Order information (revenue, timestamp).
-* `deliveries.csv`: Delivery information (drivers, distance).
-* `stores.csv`: Store information (GPS coordinates).
-* `hubs.csv`: Distribution hubs.
-* `payments.csv`: Payment information.
-
----
